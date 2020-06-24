@@ -7,4 +7,4 @@ Take the skills acquired from the first-lesson for HTML and continue to advance 
 ## Breakdown:
 
 * Learning the fundamentals of CSS/ Basics
-
+* Define CSS and Understand the general rule of CSS
