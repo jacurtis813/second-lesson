@@ -1,11 +1,9 @@
+/* THis is how to comment */
+
 h1 {
-    color: blue;
+    color: #ff0000;
 }
 
-li {
-    color: orange;
-}
-
-h4 {
-    color: green;
+h2 {
+    color: rgb(100, 0, 100)
 }

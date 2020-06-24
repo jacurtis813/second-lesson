@@ -12,3 +12,5 @@ Take the skills acquired from the first-lesson for HTML and continue to advance 
 * CSS just the style and HTML just the structure
 * Begin CSS with using the style element within the head to perform selector styling
 * Proper staging for the style sheets, use link tag, fill in each attribute within the link
+* Understanding how to color within CSS
+
