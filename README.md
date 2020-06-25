@@ -13,4 +13,7 @@ Take the skills acquired from the first-lesson for HTML and continue to advance 
 * Begin CSS with using the style element within the head to perform selector styling
 * Proper staging for the style sheets, use link tag, fill in each attribute within the link
 * Understanding how to color within CSS
-
+* Assign property: value; by element selector
+* Create multiple style sheets and link them to html files
+* Assign property: value; by id selector- must be UNIQUE (1 selection only)
+* Understand how to consolidate the styling for the same sections. Cleaner style sheets. 

@@ -20,6 +20,21 @@ ul {
     background: white;
 }
 
-li {
+/* this is how we consolidated the styling into one class */
+.special {
     color: rgb(33, 40, 204);
+    border: 2px dotted rgb(117, 28, 243);
+    background: yellow;
 }
+
+/* each id only used once per selection 
+#special {
+    background: yellow;
+}
+*/
+
+/* each class can be used more than once
+.special {
+    background: yellow;
+}
+*/
