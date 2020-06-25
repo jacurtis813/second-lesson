@@ -1,0 +1,25 @@
+body {
+    background: rgb(34, 194, 114)
+}
+
+h1 {
+    color: rgb(117, 28, 243);
+}
+
+div {
+    border-style: ridge;
+    border-color: rgb(33, 44, 204);
+}
+
+h2 {
+    background: rgb(117, 28, 243);
+    color: white;
+}
+
+ul {
+    background: white;
+}
+
+li {
+    color: rgb(33, 40, 204);
+}
