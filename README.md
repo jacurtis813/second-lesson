@@ -16,4 +16,7 @@ Take the skills acquired from the first-lesson for HTML and continue to advance 
 * Assign property: value; by element selector
 * Create multiple style sheets and link them to html files
 * Assign property: value; by id selector- must be UNIQUE (1 selection only)
-* Understand how to consolidate the styling for the same sections. Cleaner style sheets. 
+* Understand how to consolidate the styling for the same sections. Cleaner style sheets
+* Advanced Css Selectors
+* Using star selectors, descendant selectors, attribute selectors, and nth of type selectors
+* Review inheritence and specificity selectors
