@@ -20,3 +20,5 @@ Take the skills acquired from the first-lesson for HTML and continue to advance 
 * Advanced Css Selectors
 * Using star selectors, descendant selectors, attribute selectors, and nth of type selectors
 * Review inheritence and specificity selectors
+* Using the psuedo selector. In this instance we used input:checked as the psuedo selector, this meaning the select will first look for the input than will look for the checked inputs that we are asking for the selector to look for
+* Making the element all uppercase without changing the HTML. With text-transform: uppercase; 
